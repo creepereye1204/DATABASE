@@ -1,31 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T09:00:13.462Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="7JgNK9dwX9N1cigMLChr" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T09:02:23.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="vd0kA_rD1UKA1JEZ6wwS" version="22.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1050" dy="1703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="1797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="fbtyClFhy6wZYJGq998j-0" value="유저저" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fbtyClFhy6wZYJGq998j-15" value="유저" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="80" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fbtyClFhy6wZYJGq998j-1" value="글쓰기" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fbtyClFhy6wZYJGq998j-16" value="글쓰기" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="80" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fbtyClFhy6wZYJGq998j-2" value="글수정" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fbtyClFhy6wZYJGq998j-17" value="글수정" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="160" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fbtyClFhy6wZYJGq998j-3" value="글삭제" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fbtyClFhy6wZYJGq998j-18" value="글삭제" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="250" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fbtyClFhy6wZYJGq998j-4" value="설정변경" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fbtyClFhy6wZYJGq998j-19" value="설정변경" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="340" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fbtyClFhy6wZYJGq998j-6" value="구독하기" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fbtyClFhy6wZYJGq998j-20" value="구독하기" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fbtyClFhy6wZYJGq998j-7" value="로그인하기" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fbtyClFhy6wZYJGq998j-21" value="로그인하기" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="-170" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fbtyClFhy6wZYJGq998j-8" value="초기설정하기" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fbtyClFhy6wZYJGq998j-22" value="초기설정하기" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="-90" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
