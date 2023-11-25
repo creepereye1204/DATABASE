@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-25T11:21:53.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="efF3_YsZFaiCmPVMSr7A" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-25T11:24:15.484Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="JDBlSvc4SIZ7KheCOKTW" version="22.1.4" type="github">
   <diagram name="페이지-1" id="d6vBU8dQ3OIi_ZeA8_BH">
     <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="QD3MnkhuZayKxs5UsDuF-19" value="PK | index | NUMBER" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="alfVSQqw5zvKO4nv5Tz3-78" vertex="1">
           <mxGeometry y="26" width="230" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="alfVSQqw5zvKO4nv5Tz3-81" value="FK | email&amp;nbsp; | VARCHAR2(320)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="alfVSQqw5zvKO4nv5Tz3-78" vertex="1">
+        <mxCell id="alfVSQqw5zvKO4nv5Tz3-81" value="email&amp;nbsp; | VARCHAR2(320)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="alfVSQqw5zvKO4nv5Tz3-78" vertex="1">
           <mxGeometry y="59" width="230" height="33" as="geometry" />
         </mxCell>
         <mxCell id="alfVSQqw5zvKO4nv5Tz3-80" value="major | VARCHAR2(30)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="alfVSQqw5zvKO4nv5Tz3-78" vertex="1">
@@ -64,7 +64,7 @@
         <mxCell id="QD3MnkhuZayKxs5UsDuF-10" value="&amp;nbsp;PK | index | NUMBER | AUTO" style="text;whiteSpace=wrap;html=1;" parent="QD3MnkhuZayKxs5UsDuF-7" vertex="1">
           <mxGeometry y="26" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QD3MnkhuZayKxs5UsDuF-8" value="FK | article_id | NUMBER" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="QD3MnkhuZayKxs5UsDuF-7" vertex="1">
+        <mxCell id="QD3MnkhuZayKxs5UsDuF-8" value="article_id | NUMBER" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="QD3MnkhuZayKxs5UsDuF-7" vertex="1">
           <mxGeometry y="66" width="230" height="34" as="geometry" />
         </mxCell>
         <mxCell id="QD3MnkhuZayKxs5UsDuF-11" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;data_path | VARCHAR2(50)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="QD3MnkhuZayKxs5UsDuF-7" vertex="1">
