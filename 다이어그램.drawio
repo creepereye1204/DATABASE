@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-25T12:29:07.438Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="TivLIoATGlqKqlOSWU76" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-25T12:30:53.232Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ZDy0x0-66oCXSPzLpXiJ" version="22.1.4" type="github">
   <diagram name="페이지-1" id="d6vBU8dQ3OIi_ZeA8_BH">
     <mxGraphModel dx="1235" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
             <mxPoint x="430" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uUUG_a216R064YyXESs9-15" value="COMMENT" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="uUUG_a216R064YyXESs9-15" value="COMMENTS" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="720" y="560" width="230" height="426" as="geometry" />
         </mxCell>
         <mxCell id="uUUG_a216R064YyXESs9-16" value="PK | comment_id" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="uUUG_a216R064YyXESs9-15">
