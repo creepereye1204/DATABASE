@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T04:44:35.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="qbbOvEqXr_RawqsT5YzO" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T04:46:41.727Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="e8XQ6aqAb2xVnR9wNbKw" version="22.1.7" type="github">
   <diagram name="페이지-1" id="d6vBU8dQ3OIi_ZeA8_BH">
     <mxGraphModel dx="2150" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -174,6 +174,12 @@
             <mxPoint x="310" y="640" as="sourcePoint" />
             <mxPoint x="360" y="590" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XpZqN-uX9jOZPUvs83NW-1" value="&lt;h1&gt;클라이언트와 아티클아이디로 복합키를만드는것을 제거:2정규화&amp;nbsp; &amp;nbsp;&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="900" y="16.5" width="590" height="83.5" as="geometry" />
+        </mxCell>
+        <mxCell id="XpZqN-uX9jOZPUvs83NW-2" value="&lt;h1&gt;전공이 대학을 결정할수있음으로 테이블을 분리:3정규화&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="900" y="126.5" width="590" height="83.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
