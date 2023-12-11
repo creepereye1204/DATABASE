@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T09:20:47.769Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="i-L67i-REGEjfnVuN_CL" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T04:44:35.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="qbbOvEqXr_RawqsT5YzO" version="22.1.7" type="github">
   <diagram name="페이지-1" id="d6vBU8dQ3OIi_ZeA8_BH">
-    <mxGraphModel dx="1687" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2150" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,7 +110,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uUUG_a216R064YyXESs9-15" value="COMMENTS" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="720" y="560" width="230" height="426" as="geometry" />
+          <mxGeometry x="680" y="450" width="230" height="426" as="geometry" />
         </mxCell>
         <mxCell id="uUUG_a216R064YyXESs9-16" value="PK | comment_id" style="text;whiteSpace=wrap;html=1;" parent="uUUG_a216R064YyXESs9-15" vertex="1">
           <mxGeometry y="26" width="230" height="36" as="geometry" />
